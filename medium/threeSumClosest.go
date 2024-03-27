@@ -1,12 +1,12 @@
 package medium
 
 import (
-	"github.com/vv-projects/go-leetcode/utils"
+	"github.com/gopherbara/go-leetcode/utils"
 	"sort"
 )
 
-//3Sum Closest (medium - topics: array, two pointers, sorting)
-//234
+// 3Sum Closest (medium - topics: array, two pointers, sorting)
+// 234
 func threeSumClosest(nums []int, target int) int {
 	res := nums[0] + nums[1] + nums[2]
 	// sort nums

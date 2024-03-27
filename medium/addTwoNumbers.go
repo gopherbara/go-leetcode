@@ -1,6 +1,6 @@
 package medium
 
-import "github.com/vv-projects/go-leetcode/utils"
+import "github.com/gopherbara/go-leetcode/utils"
 
 // add Two Numbers (medium - topics: recursion, math, linked list)
 func addTwoNumbers(l1 *utils.ListNode, l2 *utils.ListNode) *utils.ListNode {

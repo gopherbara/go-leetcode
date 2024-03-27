@@ -1,3 +1,3 @@
-module github.com/vv-projects/go-leetcode
+module github.com/gopherbara/go-leetcode
 
-go 1.18
+go 1.21

@@ -1,7 +1,7 @@
 package hard
 
 import (
-	"github.com/vv-projects/go-leetcode/utils"
+	"github.com/gopherbara/go-leetcode/utils"
 )
 
 func HardRun() {
